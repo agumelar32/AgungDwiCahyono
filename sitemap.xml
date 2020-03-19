@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://agumelar32.github.io/AgungDwiCahyono/Home/</loc>
-     <lastmod>2020-03-18</lastmod>
+     <lastmod>2020-03-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://agumelar32.github.io/AgungDwiCahyono/tugas1/</loc>
-     <lastmod>2020-03-18</lastmod>
+     <lastmod>2020-03-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://agumelar32.github.io/AgungDwiCahyono/Numerical%20Solution/</loc>
-     <lastmod>2020-03-18</lastmod>
+     <lastmod>2020-03-19</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://agumelar32.github.io/AgungDwiCahyono/Tugas3/</loc>
-     <lastmod>2020-03-18</lastmod>
+     <lastmod>2020-03-19</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://agumelar32.github.io/AgungDwiCahyono/Romberg/</loc>
+     <lastmod>2020-03-19</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
